@@ -1,29 +1,29 @@
-# Welcome to your Lovable project
+🚀 ChemiUni (ჩემიUni) — Smart College Admissions Assistant 🎓✨
 
-This project was built with [Lovable](https://lovable.dev).
+DEMO - [(https://chemiuni.lovable.app/)] 
 
-## Build with Lovable
+============================================================
+❓ WHAT IT IS
+============================================================
+ChemiUni is the ultimate digital college counselor 🤖💡 built specifically for Georgian high school seniors (abiturientebi) 🇬🇪🎒. 
 
-Open your project in the [Lovable editor](https://lovable.dev) and keep building.
+It is a fast, intelligent web platform 🌐 mobile app that takes all the stress 🤯 out of picking a university. Instead of guessing, spending weeks staring at boring spreadsheets 📊, or risking your future, ChemiUni guides you step-by-step to lock in your dream major 🏆 and secure your state grant! 💰🔥
 
-- **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: connect the project to GitHub and every change made in Lovable is committed straight to your repository.
-- **Full ownership**: this code is yours. Push to your repository and your changes sync back into Lovable, ready for your next prompt.
+============================================================
+❌ THE PROBLEM IT SOLVES
+============================================================
+Every year, over 38,000 Georgian high schoolers 📚 take the Unified National Exams (Erovnuli Gamocdebi) 📝. But here is the brutal reality 😱:
 
-## Development
+1. 💸 Grants Wasted by Mistakes:
+Thousands of students score super high 🎯 on their exams but STILL lose their 100%, 70%, or 50% state grants 💸 simply because they filled out their 10-choice university priority list in the wrong order! 🤦‍♂️
 
-Prefer working locally? You need Node.js and npm — [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
+2. 🌀 Information Chaos:
+Rules change, subject multipliers shift, and seat quotas move every year 📈📉. Students rely on outdated archives 📜, outdated rumors, or bad advice from friends, leading to total failure on results day 💔.
 
-```sh
-git clone <this-repository-url>
-cd <repository-name>
-npm i
-npm run dev
-```
+3. 💰 Unfair Financial Barrier:
+Private college counseling agencies charge INSANE amounts of money (thousands of GEL!) 🤑. Kids in regions outside major cities can't afford this 🚫, leaving them with zero expert help.
 
-## Built with
+4. 🧠 Anxiety & High Stakes:
+Filling out the NAEC priority list is a high-stress black box 📦💣 where one small mistake can cost a student an entire year of their life ⏳.
 
-- TanStack Start
-- TypeScript
-- React
-- Tailwind CSS
+ChemiUni fixes all of this! ⚡ It turns the terrifying admissions process into a simple, clear, and winning strategy for EVERY student in Georgia! 🎓🇬🇪🎉
