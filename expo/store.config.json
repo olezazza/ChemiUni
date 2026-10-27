@@ -1,0 +1,30 @@
+{
+  "configVersion": 0,
+  "apple": {
+    "info": {
+      "en-US": {
+        "title": "ChemiUni University Choices",
+        "subtitle": "Explore programs and plan",
+        "description": "Choose your study path with ChemiUni: national exam planning in Georgia or global university applications. Save separate profiles, exam scores and preferences on your device. Generate a personal Georgian priority list or an abroad application portfolio using your study budget and application-fee budget.\n\nExplore demonstration programs, scholarship coverage checklists, deadlines and illustrative admission assessments. Review AI counselor proposals independently before any list changes. Counselor access requires the demo PIN; no separate email account is needed.\n\nUniversity figures, scholarship terms and admission assessments are simulated demonstration data, not verified admissions statistics or guarantees. Choose light, dark or system appearance with Georgian-compatible typography.",
+        "keywords": [
+          "education",
+          "georgian",
+          "student",
+          "exam",
+          "counselor",
+          "college"
+        ],
+        "promoText": "Compare demo degree programs and review counselor suggestions with individual approval."
+      }
+    }
+  },
+  "play": {
+    "info": {
+      "en-US": {
+        "title": "ChemiUni University Choices",
+        "shortDescription": "Explore demo degree programs and review personalized university choices.",
+        "fullDescription": "ChemiUni helps Georgian-speaking students plan university choices in Georgia and abroad. Choose national exam planning or international applications at startup and keep each study profile saved independently.\n\nEnter exam scores, GPA, interests, countries and an annual tuition budget to generate a recommended abroad application portfolio. Track application fees and compare illustrative Reach, Target and Safety estimates. Explore a demo scholarship directory with coverage, eligibility and document checklists.\n\nUse the PIN-protected AI university counselor to discuss lower-cost alternatives, countries and scholarship leads. Accept or reject each proposed program addition, replacement or removal. Nothing changes until you approve it.\n\nAll tuition, deadlines, scholarship conditions and admission assessments are simulated demonstration data. They are not official statistics, verified scholarship rules or admission guarantees. Profiles, selected programs and counselor conversations stay saved locally. Light, dark and system appearance are supported."
+      }
+    }
+  }
+}
