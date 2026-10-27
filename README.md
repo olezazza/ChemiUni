@@ -9,7 +9,7 @@ ChemiUni is the ultimate digital college counselor 🤖💡 built specifically f
 
 It is a fast, intelligent web platform 🌐 mobile app that takes all the stress 🤯 out of picking a university. Instead of guessing, spending weeks staring at boring spreadsheets 📊, or risking your future, ChemiUni guides you step-by-step to lock in your dream major 🏆 and secure your state grant! 💰🔥
 
-==============
+
 ❌ THE PROBLEM IT SOLVES
 ==============
 Every year, over 38,000 Georgian high schoolers 📚 take the Unified National Exams (Erovnuli Gamocdebi) 📝. But here is the brutal reality 😱:
